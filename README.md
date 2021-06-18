@@ -2,8 +2,7 @@
 
 In this Codecademy JavaScript project, we were to help mad scientist Kelvin, master weather predictor, convert his predictions from Kelvin to Celsius, Fahrenheit, and the Newton scale.
 
-![kelvin]
-
+<img width="479" alt="kelvin" src="https://user-images.githubusercontent.com/60168324/122509352-7c396380-cfb8-11eb-83a0-c01ea4acb8ec.png">
 
 
 
