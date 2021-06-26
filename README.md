@@ -9,4 +9,4 @@ In this Codecademy JavaScript project, we helped mad scientist Kelvin, master we
 ## Class
 *Codecademy/Pro, Front-End Engineer Path*
 
-JavaScript Syntax: Introduction - JavaScript data types, built-in methods, and variables.
+JavaScript Syntax, Part I: Introduction - JavaScript data types, built-in methods, and variables.
